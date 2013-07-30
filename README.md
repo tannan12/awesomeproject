@@ -1,0 +1,4 @@
+awesomeproject
+==============
+
+first repository
